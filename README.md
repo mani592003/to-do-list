@@ -27,3 +27,7 @@ A simple and interactive command-line **To-Do List application** built with Pyth
 Install dependencies:
 ```bash
 pip install colorama pyinstaller
+
+**Screenshots**
+![image](https://github.com/user-attachments/assets/6270461b-fe91-4973-9bcd-ba481e153b79)
+
