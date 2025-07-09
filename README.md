@@ -16,6 +16,9 @@ A simple and interactive command-line **To-Do List application** built with Pyth
 - 🪄 Packaged as `.exe` (runs on any Windows PC)
 
 ---
+**SCREENSHOTS**
+![image](https://github.com/user-attachments/assets/76657493-1afe-44ae-a573-ee6008aa95b9)
+
 
 ## 🛠️ Requirements
 
@@ -28,6 +31,4 @@ Install dependencies:
 ```bash
 pip install colorama pyinstaller
 
-**Screenshots**
-![image](https://github.com/user-attachments/assets/6270461b-fe91-4973-9bcd-ba481e153b79)
 
